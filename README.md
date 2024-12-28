@@ -1,7 +1,7 @@
 # Corrosion Detection For Oil & Gas Grids
- ## An application that uses advanced computer vision and deep learning techniques to detect and classify corrosion in oil and gas infrastructure.
- ### This corrosion detection system uses deep learning models trained on hundreds of images of gas infrastructure. 
- ### The system:
+ ### An application that uses advanced computer vision and deep learning techniques to detect and classify corrosion in oil and gas infrastructure.
+ #### This corrosion detection system uses deep learning models trained on hundreds of images of gas Pipelines. 
+ #### The system:
 ##### 1. First identifies whether the component is a Pipeline or Flange.
 ##### 2. Then applies a specialized corrosion detection model based on the component type:
 ##### - For Pipelines: Detects Uniform Corrosion, No Corrosion, or Pitting
