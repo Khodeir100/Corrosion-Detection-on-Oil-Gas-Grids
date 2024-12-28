@@ -8,8 +8,8 @@
 ##### - For Flanges: Detects Crevice Corrosion or No Corrosion
 ##### 3. Provides confidence scores to help inform decision making.
 
-![System Diagram](https://raw.githubusercontent.com/Khodeir100/Corrosion-Detection-on-Oil-Gas-Grids/blob/main/App/Diagram.PNG)
-
+## Here is a diagram illustrating the concept:
+![Diagram](https://raw.githubusercontent.com/Khodeir100/Corrosion-Detection-on-Oil-Gas-Grids/main/App/Diagram.PNG)
 
 # About Model:
 ## Dataset
@@ -30,4 +30,9 @@
 #### L2 Regularization (0.001): Added to prevent overfitting and encourage better model generalization.
 ---
 ### Project Duration: 40 Days
+---
+
+#### The following image shows an example of uniform corrosion detected by the app deployed on Streamlit:
+
+![Uniform Corrosion](https://raw.githubusercontent.com/Khodeir100/Corrosion-Detection-on-Oil-Gas-Grids/main/App/Uniform%20Corrosion.PNG)
 
