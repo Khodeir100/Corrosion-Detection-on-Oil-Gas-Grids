@@ -8,6 +8,9 @@
 ##### - For Flanges: Detects Crevice Corrosion or No Corrosion
 ##### 3. Provides confidence scores to help inform decision making.
 
+![System Diagram](https://raw.githubusercontent.com/Khodeir100/Corrosion-Detection-on-Oil-Gas-Grids/blob/main/App/Diagram.PNG)
+
+
 # About Model:
 ## Dataset
 ####     - Original Dataset: 1,000 benchmark images, self-collected
