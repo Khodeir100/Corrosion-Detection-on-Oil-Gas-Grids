@@ -30,6 +30,17 @@
 ##### L2 Regularization (0.001): Added to prevent overfitting and encourage better model generalization.
 ---
 #### Project Duration: 40 Days
+
+## 📫 Contact
+For discussions, collaborations, or questions, reach out via LinkedIn or email.
+
+# mkhodeir46@gmail.com
+https://www.linkedin.com/in/mohamed-khodeir-0794b9201/
+
+---
+
+⭐ If you find this project helpful, consider giving it a **star** on GitHub!
+
 ---
 
 #### The following image shows an example of uniform corrosion detected by the app deployed on Streamlit:
